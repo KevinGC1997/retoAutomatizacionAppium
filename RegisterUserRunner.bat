@@ -1,0 +1,1 @@
+gradle clean test --tests *falabellaApp.runners.RegisterUserRunner aggregate & cd target/site/serenity & index.html
